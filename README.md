@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**FerAponte/FerAponte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About me
 
-Here are some ideas to get you started:
+Scientist turned Data Analyst with experience in data validation, statistical analysis, and process automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔎 What I Do
+- Data analysis and validation using Python (pandas, matplotlib, seaborn)
+- Process automation and reporting in Excel
+- Statistical analysis for quality and performance evaluation
+- Documentation and structured workflow improvement
+
+## 🛠 Tools & Technologies
+Python | Excel | Pandas | Matplotlib | Seaborn | Git | SQL (basic)
+
+## 📌 Current Focus
+Improving data validation workflows and building automation tools to increase operational efficiency.
